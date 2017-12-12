@@ -1,0 +1,10 @@
+Big Ball - Destroys adjacent blokes along with it
+Flare Ball - Doesnt waver from it's path and lays devastation
+Gun Pad - It shoots lazers, because why not
+Pad Long - Increases the pad length
+Magnet Pad - It parents the ball until you decide
+VIP Ball - You should see the treatment it gets on the ground
+Multi Ball - Many ball such wow
+Pad Short - Decreases the pad length
+Slow Down - Decreases the ball speed
+Speed Up - Increases the ball speed

@@ -1,0 +1,5 @@
+The basic blokes, colors available on store. 1 hit, 2 hit or 3 hit destruction.
+Explosive Bloke - Removes adjoining blokes on explosion.s
+Blink Bloke - Its like Diwali lights.
+Indestructible Bloke - These blokes cannot be destroyed
+Toggle Bloke - A hit toggles them on and off
